@@ -1,5 +1,7 @@
 # Hi there 👋 Welcome on my profile. Keep learning 🤓
- ### 🔧 Languages and Tools:
+<br />
+### 🔧 Languages and Tools:
+<br />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -13,12 +15,18 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+
 ### 💻 Some stats
+
+<br />
 
 <img align="left" alt="Freezlex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Freezelx&show_icons=true&hide_border=true&count_private=true" />
 
-### ❓ About me
+<br />
 
+### ❓ About me
+<br />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning VueJs deeply
 - 🤔 I’m looking for help with ...
