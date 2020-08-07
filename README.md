@@ -1,8 +1,19 @@
-# Hi there 👋 Welcome on my profile. Keep learning 🤓
+![Header](./Img/BannerGithub2.png)
 
-### 🔧 Languages and Tools:
+# **❓ About me**
 
-![Visual-Studio-Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png =250x250)
+### Hey you 👋 !
+
+I'm Ivars Julien alias : `Freezlex`, i'm a French student at the University [UHA 4.0](https://www.uha4point0.fr/) 🎓🤓<br />
+I want to become an back-end developer (for the time being at least) 💻<br />
+I'm also a [Twitch streamer](https://www.twitch.tv/Freezlex_), i'm trying to share my passions like coding or playing some video games (a little bit salty)🧂<br />
+... more about me will come later :3
+
+*Hey PSSST ! If you wanna see me, I'm the guys with the Yellow/Orange sweat in [this video](https://youtu.be/t0tHwE4M3Rg) 😂*
+
+# **🔧 Languages and Tools:**
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -17,23 +28,6 @@
 
 <br />
 
-### 💻 Some stats
-
-<br />
+# **💻 Some stats**
 
 <img align="left" alt="Freezlex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Freezlex&show_icons=true&hide_border=true&count_private=true" /><br />
-
-<br />
-
-### ❓ About me
-
-<br />
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning VueJs deeply
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my projects
-- 📫 How to reach me: [Freezlex#0001](discord.gg/mFQMxqx), [website](http://freezlex.com/)
-- 😄 Pronouns: FreeFree, Juju
-- ⚡ Fun fact: I love jogging 
-
