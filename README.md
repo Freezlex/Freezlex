@@ -47,7 +47,7 @@ Join My Discord server [<img alt="Discord" width="20px" src="https://raw.githubu
 
 <img align="left" alt="Freezlex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Freezlex&show_icons=true&hide_border=true&count_private=true" /><br />
 
-[website]: http://freezlex.com/
+[website]: http://www.freezlex.com/
 [twitch]: https://twitch.tv/Freezlex_
 [youtube]:https://www.youtube.com/channel/UCkExyZZOlvhZv_3h_HaPYYw
 [twitter]: https://twitter.com/freezlex
