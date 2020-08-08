@@ -28,16 +28,23 @@ I'm also a [Twitch streamer](https://www.twitch.tv/Freezlex_), i'm trying to sha
 
 <br />
 
-# Connect with me:
+# **🔗 Connect with me:**
 
-<img align="left" alt="Freezlex.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Freezlex | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="Freezlex | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Freezlex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Freezlex | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+[<img align="left" alt="Freezlex.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Freezlex | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Freezlex | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Freezlex | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Freezlex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+
 
 <br />
 
 # **💻 Some stats**
 
 <img align="left" alt="Freezlex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Freezlex&show_icons=true&hide_border=true&count_private=true" /><br />
+
+[website]: http://freezlex.com/
+[twitch]: https://twitch.tv/Freezlex_
+[youtube]:https://www.youtube.com/channel/UCkExyZZOlvhZv_3h_HaPYYw
+[twitter]: https://twitter.com/freezlex
+[LinkedIn]: https://linkedin.com/in/julien-ivars-675bb9198
