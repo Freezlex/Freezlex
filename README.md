@@ -8,9 +8,7 @@ I'm Ivars Julien alias : `Freezlex`, i'm a French student at the University [UHA
 I want to become an back-end developer (for the time being at least) 💻<br />
 I'm also a [Twitch streamer](https://www.twitch.tv/Freezlex_), i'm trying to share my passions like coding or playing some video games (a little bit salty)🧂<br />
 Join My Discord server [<img alt="Discord" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"/>][discord]<br />
-... more about me will come later :3
 
-*Hey PSSST ! If you wanna see me, I'm the guys with the Yellow/Orange sweat in [this video](https://youtu.be/t0tHwE4M3Rg) 😂*
 
 # **🔧 Languages and Tools:**
 
