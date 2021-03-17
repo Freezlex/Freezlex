@@ -4,13 +4,13 @@
 <a href="https://twitter.com/freezlex">
   <img align="center" alt="freezlex's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+<a href="https://www.linkedin.com/in/julien-ivars-675bb9198">
   <img align="center" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/freezlex">
   <img align="center" alt="freezlex's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
+<a href="https://www.youtube.com/user/sonyc098">
   <img align="center" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="mailto:sonyc098@gmail.com">
