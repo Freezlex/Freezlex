@@ -32,7 +32,6 @@
 - 🐉 <samp>FTNL developer when I'm not too busy</br>
 - 🥇 <samp>I'm an adept of boxing and running</br> 
 - 💬 <samp>Ask me about Arduino/Raspberry-Pi/Kotlin-Dev/Back-End Architecture</br>
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming</br>
 - ⚡ <samp>Fun fact: I'm a streamer, a bit shy IRL but behind a screen it's another storie</br>
 </div>
 
