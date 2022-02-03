@@ -18,22 +18,20 @@
 </a>
 </div>
 
-<br><br>
+
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> An back-End developer, Open Source Contributor, Adept of knowledge Sharing  & A Competitive Programmer </samp></h4></p>
 
 ##
 
-<div>
-<h4><b><samp>Experiences:</samp></b></h4>
-- 👷 <samp>Currently in a work-study program with Unit Solution AG, developping some Angular and C# stuff </br>
-- 🔭 <samp>Student at the UHA until september 2024</br>
-- 🐉 <samp>FTNL developer when I'm not too busy</br>
-- 🥇 <samp>I'm an adept of boxing and running</br> 
-- 💬 <samp>Ask me about Arduino/Raspberry-Pi/Kotlin-Dev/Back-End Architecture</br>
-- ⚡ <samp>Fun fact: I'm a streamer, a bit shy IRL but behind a screen it's another storie</br>
-</div>
+### Experiences:
+* 👷 <samp>Currently in a work-study program with Unit Solution AG, developping some Angular and C# stuff</samp>
+* 🔭 <samp>Student at the UHA until september 2024</samp>
+* 🐉 <samp>FTNL developer when I'm not too busy</samp>
+* 🥇 <samp>I'm an adept of boxing and running</samp>
+* 💬 <samp>Ask me about Arduino/Raspberry-Pi/Kotlin-Dev/Back-End Architecture</samp>
+* ⚡ <samp>Fun fact: I'm a streamer, a bit shy IRL but behind a screen it's another storie</samp>
 
 ##
 <h4><b><samp>Skills and Languages</samp></b></h4>
