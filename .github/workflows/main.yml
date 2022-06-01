@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -15,3 +15,16 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # PLUGINS
+          user: Freezlex
+          base: header, activity, community
+          config_timezone: Europe/Berlin
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_habits_days: 30
+          plugin_habits_from: 400
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 12
