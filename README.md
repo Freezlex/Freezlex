@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Freezlex](https://github.com/freezlex) ! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Freezlex](https://github.com/freezlex) !
 <br><br>
 <div align="center">
 <a href="https://twitter.com/freezlex">
