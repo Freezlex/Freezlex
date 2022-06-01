@@ -31,6 +31,7 @@ jobs:
           
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.anilist.characters.svg
           plugin_anilist_user: Freezlex
           plugin_anilist: yes
